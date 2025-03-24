@@ -16,7 +16,6 @@ The architecture used for the development of the application is Domain-Driven De
  
 ![Image alt text](./Docs/architecture.png)
 
-
 # Tech Stack
 ### Technologies used in **Trading.Web.Api**
 - ASP.NET Core 7.0
